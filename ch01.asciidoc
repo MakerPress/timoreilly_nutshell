@@ -1,0 +1,22 @@
+
+[[new_era_of_pervasive_computing]]
+== The New Era of Pervasive Computing
+
+_May 2003_
+
+_This could have been easily dismissed as reckless optimism when I published it on tim.oreilly.com. Just over a year later, the signs of renewed, sustainable technology growth are starting to manifest. The future’s never certain, but my optimism is firmly intact._
+
+We’re now ten years into a massive technology-driven transformation of the social, political, and economic landscape. After the dot-com bubble and subsequent meltdown, we think we’ve seen it all. But in fact, as Carlota Perez tells us in her classic book, _Technological Revolutions and Financial Capital,_ every major technological revolution for the past three hundred years has been accompanied by a financial bubble. It is typically only after the bubble is over that the long-term impacts of the technological change begin to be felt. A radical new technology is deployed in a wave of irrational exuberance. After the inevitable bust, the infrastructure that was created during the bubble becomes the basis for a long period of steady growth as the technology is really put to use. Short-term thinkers flee the market just when things are getting interesting, leaving the gains to be reaped by those with their eye on the long view.
+
+So with that long view in mind, here are some of the reasons why I’m still bullish on our industry.
+
+Java™ and open source technologies like Linux®, Apache, MySQL, and Perl/PHP/Python (LAMP) are just hitting their stride and will become even more important over the next decade. Years ago, I urged Linux developers not to focus on displacing Microsoft, but on becoming the “Intel Inside” of the next generation of computer applications. And we’re well along the path to that vision. Along with Java-based platforms like BEA WebLogic® and IBM’s WebSphere®, LAMP-based applications are at the heart of today’s “killer applications”—Google, Amazon, Yahoo!, and a host of other familiar web titans.
+
+On the enterprise side, a web services infrastructure is tying businesses together with applications built on what is gradually shaping up to be a next-generation “Internet operating system.”
+
+Meanwhile, Microsoft is not to be counted out. Despite their recent backpedaling on .NET marketing, Microsoft’s eyes are clearly focused on the future, and a tactical retreat on overheated marketing does not mean that they are quitting the game—only that they are about to try rewriting the rules once again.
+
+At the same time, Mac OS® X, Steve Jobs’ vision of the digital hub, and new handheld devices are all radically changing consumer expectations.
+
+The era of the personal computer is over. We are entering the pervasive computing era, where dozens or hundreds of specialized access devices suck services from the emergent global network computer. At O’Reilly, we’re working hard to prepare you for that future, as you take the tools we teach you about and use them to invent it, in a virtuous circle.
+

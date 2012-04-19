@@ -1,0 +1,35 @@
+
+[[all_software_should_be_network_aware]]
+== All Software Should Be Network Aware
+
+_October 2003_
+
+_Sun’s prescient marketing slogan, “The Network is the Computer,” is becoming a fact of life. In this piece, written for our Fall 2003 catalog, I posit that we need to re-think what software is, where it lives, and how it works for users._
+
+I’ve been noodling for some time on ‘the idea that we need some kind of equivalent to die old Apple Human Interface Guidelines for the new world of networked applications. The original Human Interface Guidelines laid out Apple’s vision for a set of consistent approaches for GUI applications. Even though Windows® ended up with a different set than the Mac®, the idea was simple and profound: create a consistent set of user expectations for all applications and live up to them. Now that we’re moving into the era of “software above the level of a single device” (to borrow Dave Stutz’s phrase), we need something similar for network-aware applications, whether those applications live on a PC, a server farm, a cell phone or PDA, or somewhere in between.
+
+Here are some of the things that I’d like to see universally supported:
+
+
+. Rendezvous-like functionality for automatic discovery of and potential synchronization with other instances of the application on other computers. Apple is showing the power of this idea with iChat® and iTunes®, but it could be applied in so many other places. For example, if every PIM supported this functionality, we could have the equivalent of “phonester” where you could automatically ask peers for contact information. Of course, that leads to guideline 2.
+
+
+. If you assume ad-hoc networking, you have to automatically define levels of access. I’ve always thought that the old Unix UGO (User, Group, Other) three-level permission system was simple and elegant, and if you replace the somewhat arbitrary “group” with “on my buddy list,” you get something quite powerful. Which leads me to ...
+
+
+. Buddy lists ought to be supported as a standard feature of all apps, and in a consistent way What’s more, our address books really ought to make it easy to indicate who is in a “buddy list” and support numerous overlapping lists for different purposes.
+
+
+. Every application ought to expose some version of its data as an XML web services feed via some well-defined and standard access mechanism. One of the really big wins that fueled the early Web was a simple naming scheme: you could go to a site called _www.foo.com,_ and you’d find a web server there. This made web addresses eminently guessable. We missed the opportunity for _xml.foo.com_ to mean “this is where you get the data feed,” but it’s probably still possible to come up with a simple, consistent naming scheme. And of course, if we can do it for web sites, we also need to think about how to do it for local applications, since ...
+
+
+. We ought to be able to have the expectation that all applications, whether local or remote, will be set up for two-way interactions. That is, they can be either a source or sink of online data. So, for example, the natural complement to Amazon’s web services data feeds is data input (for example, the ability to comment on a book on your local blog, and syndicate the review via RSS to Amazon’s detail page for the book). And that leads to:
+
+
+. If data is coming from multiple sources, we really need to understand who owns what, and come up with mechanisms that protect the legitimate rights of individuals and businesses to their own data, while creating the “liquidity” and free movement of data that will fuel the next great revolution in computer functionality.
+
+
+. We need easy gateways between different application domains. I was recently in Finland at a Nokia retreat, and we used camera-enabled cell phones to create a mobile photoblog. That was great. But even more exciting was the ease with which I could send a photo from the phone not just to another phone but also to an email address. This is the functionality that enabled the blog gateway, but it also made it trivial to send photos home to my family and friends. Similarly, I often blog things that I hear on mailing lists, and read many web sites via screen-scraping to email. It would be nice to have cross-application gateways be a routine part of software, rather than hacked on after the fact.
+
+As networked devices become ever more central to our lives and work, I hope to see even more “network aware” functionality routinely incorporated into new applications and devices.
+

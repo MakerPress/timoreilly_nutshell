@@ -1,0 +1,136 @@
+
+[[piracy_is_progressive_taxation_and_six_o]]
+== Piracy is Progressive Taxation and Six Other Lessons on the Evolution of Online Distribution
+
+_December 2002_
+
+_The continuing controversy over online file sharing sparks me to offer a few thoughts as an author and publisher. To be sure, I write and publish neither movies nor music, but books. But I think that some of the lessons of my experience still apply._
+
+
+[[lesson_1colon_obscurity_is_a_far_greater]]
+=== Lesson 1: Obscurity is a Far Greater Threat to Authors and Creative Artists than Piracy
+
+Let me start with book publishing. More than 100,000 books are published each year, with several million books in print, yet fewer than 10,000 of those new books have any significant sales, and only a hundred thousand or so of all the books in print are carried in even the largest stores. Most books have a few months on the shelves of the major chains, and then wait in the darkness of warehouses from which they will move only to the recycling bin. Authors think that getting a publisher will be the realization of their dreams, but for so many, it’s just the start of a long disappointment.
+
+Sites like Amazon that create a virtual storefront for all the books in print cast a ray of light into the gloom of those warehouses, and so books that would otherwise have no outlet at all can be discovered and bought. Authors who are fortunate enough to get the rights to their books back from the publisher often put them up freely online, in hopes of finding readers. The Web has been a boon for readers, since it makes it easier to spread book recommendations and to purchase the books once you hear about them. But even then, few books survive their first year or two in print. Empty the warehouses and you couldn’t give many of them away.
+
+Many works linger in deserved obscurity, but so many more suffer simply from the vast differential between supply and demand.
+
+I don’t know the exact size of the entire CD catalog, but I imagine that it is similar in scope. Tens of thousands of musicians self-publish their own CDs; a happy few get recording contracts. Of those, fewer still have their records sell in appreciable numbers. The deep backlist of music publishers is lost to consumers because the music just isn’t available in stores.
+
+There are fewer films, to be sure, because of the cost of film making, but even there, obscurity is a constant enemy Thousands of independent film makers are desperate for distribution. A few independent films, like Denmark’s Dogme films, get visibility But for most, visibility is limited to occasional showings at local film festivals. The rise of digital video also promises that film making will soon be as much a garage opportunity as starting a rock band, and as much of a garret opportunity as the great American novel.
+
+
+[[lesson_2colon_piracy_is_progressive_taxa]]
+=== Lesson 2: Piracy is Progressive Taxation
+
+For all of these creative artists, most laboring in obscurity, being well-enough known to be pirated would be a crowning achievement. Piracy is a kind of progressive taxation, which may shave a few percentage points off the sales of well-known artists (and I say “may” because even that point is not proven), in exchange for massive benefits to the far greater number for whom exposure may lead to increased revenues.
+
+Our current distribution systems for books, music, and movies are skewed heavily in favor of the “haves” against the “have nots.” A few high-profile products receive the bulk of the promotional budget and are distributed in large quantities; the majority depend, in the words of Tennessee Williams’ character Blanche DuBois, “on the kindness of strangers.”
+
+Lowering the barriers to entry in distribution, and the continuous availability of die entire catalog rather than just the most popular works, is good for artists, since it gives them a chance to build their own reputation and visibility, working with entrepreneurs of the new medium who will be the publishers and distributors of tomorrow.
+
+I have watched my 19 year-old daughter and her friends sample countless bands on Napster and Kazaa and, enthusiastic for their music, go out to purchase CDs. My daughter now owns more CDs than I have collected in a lifetime of less exploratory listening. What’s more, she has introduced me to her favorite music, and I too have bought CDs as a result. And no, she isn’t downloading Britney Spears, but forgotten bands from the 60s, 70s, 80s, and 90s, as well as their musical forebears in other genres. This is music that is difficult to find—except online—but, once found, leads to a focused search for CDs, records, and other artifacts. eBay is doing a nice business with much of this material, even if the RIAA fails to see the opportunity.
+
+
+[[lesson_3colon_customers_want_to_do_the_r]]
+=== Lesson 3: Customers Want to Do the Right Thing, if They Can
+
+Piracy is a loaded word, which we used to reserve for wholesale copying and resale of illegitimate product. The music and film industry usage, applying it to peer-to-peer file sharing, is a disservice to honest discussion.
+
+Online file sharing is the work of enthusiasts who are trading their music because there is no legitimate alternative. Piracy is an illegal commercial activity that is typically a substantial problem only in countries without strong enforcement of existing copyright law.
+
+At O’Reilly, we publish many of our books in online form. There are people who take advantage of that fact to redistribute unpaid copies. (The biggest problem, incidentally, is not on file sharing networks, but from copies of our CD Bookshelf product line being put up on public web servers, or copied wholesale and offered for sale on eBay.) While these pirated copies are annoying, they hardly destroy our business. We’ve found little or no abatement of sales of printed books that are also available for sale online.
+
+What’s more, many of those who do infringe respond to little more than a polite letter asking them to take the materials down. Those servers that ignore our requests are typically in countries where the books are not available for sale or are far too expensive for local consumers to buy.
+
+What’s even more interesting, though, is that our enforcement activities are customer-driven. We receive thousands of emails from customers letting us know about infringing copies and sites. Why? They value our company and our authors, and they want to see our work continue. They know that there is a legitimate way to pay for online access—our Safari® Books Online subscription service (link:$$http://safari.oreilly.com$$[safari.oreilly.com]) can be had for as little as $9.99 a month—and accordingly recognize free copies as illegitimate.
+
+A similar data point comes from Jon Schull, the former CTO of Softlock, the company that worked with Stephen King on his eBook experiment, _Riding the Bullet._ Softlock, which used a strong DRM scheme, was relying on “superdistribution” to reduce the costs of hosting the content—the idea that customers would redistribute their copies to friends, who would then simply need to download a key to unlock said copy But most of the copies were downloaded anyway and very few were passed along. Softlock ran a customer survey to find out why there was so little “pass-along” activity. The answer, surprisingly, was that customers didn’t understand that redistribution was desired. They didn’t do it because they “thought it was wrong.”
+
+The simplest way to get customers to stop trading illicit digital copies of music and movies is to give those customers a legitimate alternative, at a fair price.
+
+
+[[lesson_4colon_shoplifting_is_a_bigger_th]]
+=== Lesson 4: Shoplifting is a Bigger Threat than Piracy
+
+While few of the people putting books on public web servers seek to profit from the activity, those who are putting up CDs for sale on eBay containing PDF or HTML copies of dozens of books are in fact practicing piracy—organized copying of content for resale.
+
+But even so, we see no need for stronger copyright laws, or strong Digital Rights Management software, because existing law allows us to prosecute the few deliberate pirates.
+
+We don’t have a substantial piracy problem in the U.S. and Europe. The fact that its software products have been available for years on Warez sites (and now on file trading networks) has not kept Microsoft from becoming one of the world’s largest and most successful companies. Estimates of “lost” revenue assume that illicit copies would have been paid for; meanwhile, there is no credit on the other side of the ledger for copies that are sold because of “upgrades” from familiarity bred by illicit copies.
+
+What we have is a problem that is analogous, at best, to shoplifting, an annoying cost of doing business.
+
+And overall, as a book publisher who also makes many of our books available in electronic form, we rate the piracy problem as somewhere below shoplifting as a tax on our revenues. Consistent with my observation that obscurity is a greater danger than piracy, shoplifting of a single copy can lead to lost sales of many more. If a bookstore has only one copy of your book, or a music store one copy of your CD, a shoplifted copy essentially makes it disappear from the next potential buyer’s field of possibility. Because the store’s inventory control system says the product hasn’t been sold, it may not be reordered for weeks or months, perhaps not at all.
+
+I have many times asked a bookstore why they didn’t have copies of one of my books, only to be told, after a quick look at the inventory control system: “But we do. It says we still have one copy in stock, and it hasn’t sold in months, so we see no need to reorder.” It takes some prodding to force the point that perhaps it hasn’t sold because it is no longer on the shelf.
+
+Because an online copy is never out of stock, we at least have a chance at a sale, rather than being subject to the enormous inefficiencies and arbitrary choke points in the distribution system.
+
+
+[[lesson_5colon_file_sharing_networks_dona]]
+=== Lesson 5: File Sharing Networks Don’t Threaten Book, Music, or Film Publishing. They Threaten Existing Publishers
+
+The music and film industries like to suggest that file sharing networks will destroy their industries.
+
+Those who make this argument completely fail to understand the nature of publishing. Publishing is not a role that will be undone by any new technology, since its existence is mandated by mathematics. Millions of buyers and millions of sellers cannot find one another without one or more middlemen who, like a kind of step-down transformer, segment the market into more manageable pieces. In fact, there is usually a rich ecology of middlemen. Publishers aggregate authors for retailers. Retailers aggregate customers for publishers. Wholesalers aggregate small publishers for retailers and small retailers for publishers. Specialty distributors find ways into non-standard channels.
+
+Those of us who watched the rise of the Web as a new medium for publishing have seen this ecology evolve within less than a decade. In the Web’s early days, rhetoric claimed that we faced an age of disintermediation, that everyone could be his or her own publisher. But before long, individual web site owners were paying others to help them increase their visibility in Yahoo!, Google, and other search engines (the equivalent of Barnes &amp; Noble and Borders for the Web), and web authors were happily writing for sites like AOL and MSN, or on the technology side, CNET, Slashdot, O’Reilly Network, and other web publishers. Meanwhile, authors from Matt Drudge to Dave Winer and Cory Doctorow made their names by publishing for the new medium.
+
+As Jared Diamond points out in his book _Guns, Germs, and Steel,_ mathematics is behind the rise of all complex social organization.
+
+There is nothing in technology that changes the fundamental dynamic by which millions of potentially fungible products reach millions of potential consumers. The means by which aggregation and selection are made may change with technology, but the need for aggregation and selection will not. Google’s use of implicit peer recommendation in its page rankings plays much the same role as the large retailers’ use of detailed sell-through data to help them select their offerings.
+
+The question before us is not whether technologies such as peer-to-peer file sharing will undermine the role of the creative artist or the publisher, but how creative artists can leverage new technologies to increase the visibility of their work. For publishers, the question is whether they will understand how to perform their role in the new medium before someone else does. Publishing is an ecological niche; new publishers will rush in to fill it if the old ones fail to do so.
+
+If we take the discussion back to first principles, we understand that publishing isn’t just about physical aggregation of product but also requires an intangible aggregation and management of “reputation.” People go to Google or Yahoo!, Barnes &amp; Noble or Borders, HMV, or MediaPlay, because they believe that they will find what they want there. And they seek out particular publishers, like Knopf or O’Reilly, because we have built a track-record of trust in our ability to find interesting topics and skilled authors.
+
+Now, let’s take this discussion over to music file sharing. How do people find songs on Kazaa or any of the other post-Napster file sharing services? First, they may be looking for a song they already know. But such searches for a known artist or song title are fundamentally self-limiting, since they depend on the marketing of a “name space” (artist/song pairs) that is extrinsic to the file sharing service. To truly supplant the existing music distribution system, any replacement must develop its own mechanisms for marketing and recommendation of new music.
+
+And in fact, we already see those mechanisms emerging. File sharing services rely heavily on that most effective of marketing techniques: word of mouth. But over time, anyone who has studied the evolution of previous media will see that searches based on either pre-existing knowledge or word of mouth represent only the low-hanging fruit. As the market matures, paid marketing is added, and step by step, we build up the same rich ecology of middlemen that characterizes existing media marketplaces.
+
+New media have historically not replaced but rather augmented and expanded existing media marketplaces, at least in the short term. Opportunities exist to arbitrage between the new distribution medium and the old, as, for instance, the rise of file sharing networks has helped to fuel the trading of records and CDs (unavailable through normal recording industry channels) on eBay.
+
+Over time, it may be that online music publishing services will replace CDs and other physical distribution media, much as recorded music relegated sheet music publishers to a niche and, for many, made household pianos a nostalgic affectation rather than the home entertainment center. But the role of the artist and the music publisher will remain. The question then, is not the death of book publishing, music publishing, or film production, but rather one of who will be the publishers.
+
+
+[[lesson_6colon_quotation_markfreequotatio]]
+=== Lesson 6: “Free” is Eventually Replaced by a Higher-Quality Paid Service
+
+A question for my readers: How many of you still get your email via peer-to-peer UUCP dialups or the old “free” Internet, and how many of you pay $19.95 a month or more to an ISP? How many of you watch “free” television over the airwaves, and how many of you pay $20-$60 a month for cable or satellite television? (Not to mention continue to rent movies on videotape and DVD, and purchasing physical copies of your favorites.)
+
+Services like Kazaa flourish in the absence of competitive alternatives. I confidently predict that once the music industry provides a service that provides access to all the same songs, freedom from onerous copy-restriction, more accurate metadata and other added value, there will be hundreds of millions of paying subscribers. That is, unless they wait too long, in which case, Kazaa itself will start to offer (and charge for) these advantages. (Or would, in the absence of legal challenges.) Much as AOL, MSN, Yahoo!, CNET, and many others have collectively built a multibillion dollar media business on the “free” Web, “publishers” will evolve on file sharing networks.
+
+Why would you pay for a song that you could get for free? For the same reason that you will buy a book that you could borrow from the public library or buy a DVD of a movie that you could watch on television or rent for the weekend. Convenience, ease-of-use, selection, ability to find what you want, and for enthusiasts, the sheer pleasure of owning something you treasure.
+
+The current experience of online file sharing services is mediocre at best. Students and others with time on their hands may find them adequate. But they leave much to be desired, with redundant copies of uneven quality, intermittent availability of some works, incorrect identification of artist or song, and many other quality problems.
+
+Opponents may argue that the Web demonstrates precisely what they are afraid of, that content on the Web is “free,” that advertising is an insufficient revenue model for content providers, and that subscription models have not been successful. However, I will argue that the story is still unfinished.
+
+Subscription sites are on the rise. Computer industry professionals can be seen as the “early adopters” in this market. For example, O’Reilly’s Safari Books Online is growing at 30 percent a month, and now represents a multimillion dollar revenue stream for us and other participating publishers.
+
+Most observers also seem to miss the point that the Internet is already sold as a subscription service. All we’re working on is the development of added-value premium services. What’s more, there are already a few vertically-integrated ISPs (notably AOL Time Warner) that provide “basic” connectivity but own vast libraries of premium content.
+
+In looking at online content subscription services, analogies with television are instructive. Free, advertiser-supported television has largely been supplanted—or should I say supplemented (because the advertising remains)—by paid subscriptions to cable TV What’s more, revenue from “basic cable” has been supplemented by various aggregated premium channels. HBO, one of those channels, is now television’s most profitable network. Meanwhile, over on the Internet, people pay their ISP $19.95/month for the equivalent of “basic cable,” and an ideal opportunity for a premium channel, a music download service, has gone begging for lack of vision on the part of existing music publishers.
+
+Another lesson from television is that people prefer subscriptions to pay-per-view, except for very special events. What’s more, they prefer subscriptions to larger collections of content, rather than single channels. So, people subscribe to “the movie package,” “the sports package,” and so on. The recording industry’s “per song” trial balloons may work, but I predict that in the long term, an “all-you-can-eat” monthly subscription service (perhaps segmented by musical genre) will prevail in the marketplace.
+
+
+[[lesson_7colon_thereapostrophes_more_than]]
+=== Lesson 7: There’s More Than One Way To Do It
+
+A study of other media marketplaces shows, though, that there is no single silver-bullet solution. A smart company maximizes revenue through all its channels, realizing that its real opportunity comes when it serves the customer whom ultimately pays its bills.
+
+At O’Reilly, we’ve been experimenting with online distribution of our books for years. We know that we must offer a compelling online alternative before someone else does. As the Hawaiian proverb says, “No one promised us tomorrow.” Competition with free alternatives forces us to explore new distribution media and new forms of publishing.
+
+In addition to the Safari subscription service mentioned above, we publish an extensive network of advertising-supported “free” information sites as the O’Reilly Network (_www.oreillynet.com_). We have published a number of books under “open publication licenses” where free redistribution is explicitly allowed (_www.oreilly.com/openbook_). We do this for several reasons: to build awareness of products that might otherwise be ignored; to build brand loyalty among online communities; or, sometimes, because a product can no longer be economically sold in traditional channels, and we’d rather make it available for free than have it completely disappear from the market.
+
+We have also published many of our books on CD-ROM, in a format referred to as the CD Bookshelf, typically a collection of a half dozen or so related books.
+
+And of course, we continue to publish print books. The availability of free online copies is sometimes used to promote a topic or author (as books such as _The Cathedral &amp; The Bazaar_ or _The Cluetrain Manifesto_ became bestsellers in print as a result of the wide exposure it received online). We make available substantial portions of all of our books online, as a way for potential readers to sample what they contain. We’ve even found ways to integrate our books into the online help system for software products, including Dreamweaver® and Microsoft’s Visual Studio®.
+
+Interestingly, some of our most successful print/online hybrids have come about where we present the same material in different ways for the print and online contexts. For example, much of the content of our bestselling book _Programming Perl_ (more than 600,000 copies in print) is available online as part of the standard Perl documentation. But the entire package—not to mention the convenience of a paper copy, and the aesthetic pleasure of the strongly branded packaging—is only available in print. Multiple ways to present the same information and the same product increase the overall size and richness of the market.
+
+And that’s the ultimate lesson. “Let the Wookiee win!” as C3PO said so memorably in the first _Star Wars_ movie. Let him win in as many ways as you can find, at a fair price, and let him choose which works best for him.
+

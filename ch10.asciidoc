@@ -1,0 +1,36 @@
+
+[[rules_of_thumb]]
+== Rules of Thumb
+
+_In the late 80s, I wrote a draft of an employee handbook called_ Rules of Thumb _that was never distributed. An employment lawyer I sent it to for review told me, “It’s the most inspiring employee handbook I’ve ever read, but I can’t let you use it.” I struggled with it for years, before giving in and letting the lawyers rewrite it. A watered down version was finally distributed to employees in the year 2000! This Introduction, from the earliest draft I could still find, dates from the summer of 1992._
+
+
+[[what_the_company_is_all_about]]
+=== What the Company Is All About
+
+No one should ever be unemployed, and no one should ever be stuck with a job that they hate. There are so many worthwhile things to do, and it is possible for a creative, hard-working individual to make a living doing just about anything.
+
+However, it is often hard to find a point of attack, and the risks of starting your own business are high. Many more opportunities are available to a larger organization with some financial strength than are available to an individual. What’s more, so many important things are the product of organized activity—people working together cooperatively to achieve something that no one could manage alone.
+
+Ultimately, that’s one of the reasons why I founded O’Reilly, and what interests me most about it: it is a way for me, and those working with me, to have more choice about the things we work on, and how and when we work, without living in a garret. My goal is to build a platform that increasingly supports freedom for employees to demonstrate their initiative and creativity, at the same time as it gives us the ability to tackle larger and more interesting projects.
+
+I don’t think of O’Reilly as a publishing company. I see it rather as a point of leverage between the skills and interests of its employees, and opportunities for applying those skills out in the world. Right now, because of our history, those opportunities are chiefly in publishing, but that need not always be the case. I hope to branch out increasingly into other areas, led by employee interests, and as we can make those areas work as self-sustaining businesses. New ventures can start from either end:
+
+
+. Here’s an opportunity. Who can take the ball and run with it?
+
+
+. So and so is interested in thus and such. How can we make a profit at it?
+
+Season these alternatives with a dash of realism, and you have my corporate vision.
+
+As a new employee (or even one who has been around for a while), it is very important to keep this in mind, because it shapes company strategy and policy in many ways that are not immediately obvious. Probably the most important is that profit is not the most important company goal. Profitability is desirable like good health is desirable in your personal life: without it, nothing else goes well. But in any given case, maximum profitability might be sacrificed to the development of employee potential, the pursuit of worthwhile goals, keeping the company a place where people enjoy coming to work each day, the freedom of employees to find their own balance between work and personal life, or some other intangible. My worst fear is that we would become a “professionally managed” company with our eye only on the bottom line.
+
+If I were to boil my company vision down to one sentence, it would be this: “To make money doing interesting and worthwhile things.”
+
+Why “to make money”? Well, money is the fuel for the whole system. It makes the rest possible. What’s more, there is a wonderful rigor in free-market economics. When you have to prove the value of your ideas by persuading other people to pay for diem, it cleans out an awful lot of wooly thinking. I think often of Alexander Pope’s comment about writing poetry in rhymed couplets. He said that funnelling his creativity through such a narrow aperture made it shoot out like water from a fountain.
+
+Why “interesting and worthwhile”? Oddly enough, while dull people find very little to be of interest, intelligent people find almost anything interesting. (Curiosity is the wellspring of intelligence.) And so there are many things that can be interesting that do not add a great deal of value to the world. Adding the proviso that what we do be worthwhile in some larger sense limits our selections a bit, but like the need to make money, actually improves the chances of happiness at what we do.
+
+A key point to remember is that the company is a means, not an end. The end is a better life for those of us who work, for our customers, and (as far as we can stretch it) for everyone we touch.
+

@@ -1,0 +1,131 @@
+
+[[watching_the_quotation_markalpha_geeksqu]]
+== Watching the “Alpha Geeks”: OS X and the Next Big Thing
+
+_This piece is based on my Keynote at the Apple Worldwide Developer Conference, May 8, 2002. I’ve added to it since then, as I’ve thought more about the issues it addresses._
+
+We get most of our good ideas at O’Reilly by watching the “alpha geeks.” We look for people who appear to be doing magic, and ask them how they do it. (Remember Arthur C. Clarke’s dictum: “Any sufficiently advanced technology appears to be magic”) There are always people in any field who are the most clued in to the deep trends, who seem to be playing with all the coolest stuff, and seem to have their finger in everything before most people even know about it. We get these people to tell us what they do, and we persuade them to write it down, or tell it to someone else who can write it down.
+
+If you look at how new technologies come into play, you typically see this sequence:
+
+
+. _Someone introduces a fundamental breakthrough, a disruptive technology, or business model that will change the nature of the game._
+
+[Aside: The term “disruptive technology” comes from Clayton Christensen’s book, _The Innovator’s Dilemma._ He cites two types of innovations: sustaining technologies (cheaper, faster, better versions of existing technologies) and disruptive technologies.]
+
+Disruptive technologies are often not “better” when they start out—in fact, they are often worse. Case in point: the PC. It wasn’t better than the mainframe or minicomputer. It was a toy Similarly, the World Wide Web was far less capable than proprietary CD-ROM hypertext systems and common desktop apps. And developers of both derided the Web as slow, ungainly, and ineffective. This is a typical response to disruptive technologies. Eric Raymond, speaking of open source, quoted Gandhi: “First they laugh at you, then they fight you, then you win.”
+
+Disruptive technologies often lead to a paradigm shift (I know the phrase “paradigm shift” gets overused, but in this case, it’s spot on). The full effect of a disruptive technology paradigm shift often takes decades to be felt. There were two paradigm shifts at work in the PC revolution: first, taking the computer out of the glass house and giving it to ordinary people; and second, basing computers on commodity hardware and industry-standard designs.
+
+There are disruptive business models as well as disruptive tech. IBM’s decision to “open source” their design and let other manufacturers copy it was critical to the growth of the market. It’s why the Intel-based PC and not the superior Apple Macintosh® became the dominant hardware platform today.
+
+OK. So we have a disruptive innovation. What happens next?
+
+
+. _Hackers and “alpha geeks” push the envelope, start to use the new technology, and get more out of their systems long before ordinary users even know what’s possible._
+
+Both the Internet and open source were part of a hacker subculture for many years. I got my first email address back in 1978, when the ArpaNet was exactly the kind of “magic” I was talking about earlier. Some people had it. Others didn’t. (And in fact, the origins of _sendmail,_ the mail server that still routes the majority of Internet email, were based on exactly this disparity in skills and access. When he was a researcher at UCB, Eric Allman had ArpaNet access, and everyone wanted an account on his machine. He decided it was easier to route mail from the campus network onto the ArpaNet than to manage 700 accounts.)
+
+An example that’s still a bit far out, but that I’m confident is significant: I held a summit of peer-to-peer networking developers, and when we were sitting around having a beer afterwards, a young FreeNet developer said to Kevin Lenzo (who was there because of his early work on IRC infobots): “You sound familiar.”
+
+Kevin mentioned that he was the developer of festvox, an open source speech synthesis package, and that he was the source of one of the voices distributed with the package. “Oh, that’s why I listen to you all the time. I pipe IRC to festival so I can listen to it in the background when I’m coding.”
+
+Now I’ll guarantee that lots of people will routinely be converting text to speech in a few years, and I know it because the hackers are already doing it. It’s been possible for a long time, but now it’s ripening toward the mainstream.
+
+
+. _Entrepreneurs create products that simplify what the hackers came up with; there’s lots of competition around features, business model, and architecture._
+
+A good example: On the Web, CGI was originally a hack. Then we saw a lot of different systems to improve on the CGI model, and make database-driven web sites easier for everyone: Cold Fusion, ASP, PHP, JSP.
+
+
+. _Things get standardized, either by agreement or by someone winning dominant market share._
+
+Systems get easier to use by ordinary people, but less satisfying for advanced users. During the standardization process, dominant players put up barriers to entry and try to control the market. Entrepreneurs get acquired or squeezed out. Hackers move on to new areas, looking for “elbow room.” Innovation slows down. The cycle repeats itself.
+
+The best platforms know how to find a balance between control and hackability, and the best companies learn how to disrupt themselves before someone else does it to them.
+
+
+[[what_are_the_alpha_geeks_telling_us_righ]]
+=== What Are the Alpha Geeks Telling us Right Now?
+
+
+. _They are choosing Mac OS® X in overwhelming numbers!_
+
+There have been an amazing number of PowerBooks at recent O’Reilly conferences. The adoption by key open source communities and leaders is also striking. And of course, it’s not just hackers, but users who are taking up OS X in droves. _Mac OS X: The Missing Manual_ is our fastest-selling new book since _The Whole Internet User’s Guide &amp; Catalog_ in 1992-1993, when the commercial Internet started to take off.
+
+Why?
+
+
+* One reason is what I call “guilt-free computing.” (Even hackers need to deal with office apps.) But everyone except the most diehard free software advocates tends to run dual-boot PCs with Linux® or FreeBSD _and_ Windows®. And they look guiltily over their shoulder whenever they’re using Windows in public. With OS X, you get the best of both worlds in a guilt-free package! Plus Office apps, a modern GUI, and all the power of Unix development and scripting tools.
+
+
+* Wireless support. The fact that 802.11b support is built-in is a huge win for hackers.
+
+
+* The iApps. Apple has really built the future into this machine. iMovie®, iPhoto™, iTunes® are all very appealing built-ins.
+
+
+* Sleek new packaging. The machines are just cool.
+
+What are the hackers telling us beyond the fact that they like OS X?
+
+
+. _Assume network connectivity is central; don’t treat it as an add-on. Also assume cheap local storage._
+
+Napster™ was perhaps the first killer app that illustrated this assumption of connectivity. It may have been shut down by the legal system, but the ideas behind it are blindingly obvious in retrospect. MP3.com built massive server farms to host downloadable music archives, an approach mired in the previous generation of computing. Meanwhile, Shawn Fanning, a young student who’d grown up in the age of the Internet, asked himself, “Why do I need to have all the songs in one place? My friends already have them. All I need is a way for them to point to each other.” When everyone is connected, all that needs to be centralized is the knowledge of who has what.
+
+We’re also seeing this mindset in projects like BitTorrent. By streaming downloads not from single sites but from a mesh of cooperating PCs, BitTorrent provides raw Internet performance increases and creates a global grid of high-performance anonymous storage.
+
+Bob Morris, vice president at IBM Almaden, pointed out a key part of the new paradigm: storage is getting cheaper even faster than ad hoc peer-to-peer networking is. So we can assume people are on, redundant resources come and go, and find ways to navigate that paradigm. It’s really exciting to see that Apple totally gets this, with Rendezvous™ and the sharing features in iTunes. It’s also so impressive that Steve Jobs is willing to stand up to the copyright bullies and argue for the disruptive paradigm.
+
+
+. _802.11b (WiFi) networking is a must-have, not a nice-to-have._
+
+Some of my favorite hacker exploits are in the 802.11 space right now. Hackers are wiring their own communities. They are extending the range of 802.11b networks with homemade antennas, made from coffee cans.
+
+And of course, Apple gets wireless. 802.11 is a key part of why hackers like Mac® laptops. The fact that it’s hidden inside the case just makes it a natural part of today’s laptop, rather than an add-on. And features like the integration of wireless with Rendezvous and iTunes are great.
+
+
+. _Chat matters._
+
+Long derided as a toy, chat is becoming one of the key new apps—and what’s more, key platform functionality. It’s not just chat between people, but chat between programs. As described in _Programming Jabber,_ DJ Adams has been using Jabber®, the XML-based open source IM framework, to control SAP from a cell phone, using Jabber IM as the transport. Other folks are writing IM bots that answer questions and interact with users.
+
+
+. _Web Services are already a reality._
+
+Hackers are building unauthorized interfaces via web spidering and screen-scraping. They think of web-facing databases as software components to be recombined in new ways, and with new interfaces. At O’Reilly, we’ve built a whole custom set of market research interfaces to Amazon by spidering every computer book on Amazon every three hours, collecting vital statistics like author, publisher, page count, price, sales rank, and number and nature of customer reviews.
+
+Early do-it-yourself web services have tended to be inefficient, brute-force spiders, built that way because that’s the only way possible. We’re finally starting to see true web services from Amazon, Google, eBay®, and other sites that offer XML-based APIs. They’ve realized that it’s in their self-interest to allow remote programmers to request the data they need, and to re-use it in creative new ways.
+
+These four things—ad-hoc peer-to-peer networking, or Rendezvous™ (as Apple now calls it); wireless networking; chat as transport; and web sites as software components, or web services—all come together (along with a couple of other things, such as grid computing) into what I call the “emergent Internet operating system.” We really are building a next generation operating system for the Net. The question is what kind of operating system we want it to be.
+
+I noted earlier that after the hackers push the envelope, entrepreneurs start to simplify it. Hackers have been doing the kind of things that we see in OS X for awhile, but they’ve had to do them the hard way. Apple has started to make it easy, so ordinary people can enjoy the benefits.
+
+A good example is Apple’s integration of Yahoo! Finance and MapQuest right into Sherlock®, rather than just through the browser. Perl hackers have been able to do this kind of integration for years, but ordinary people couldn’t enjoy it. One of the challenges, though, is not just to integrate these things into an application other than the browser, but to expose APIs so that all developers can work with them. Data-driven web sites need to be seen as software components. Google’s API is a good step in the right direction, but all data-driven web sites need to start thinking of themselves as program-callable software components for developers.
+
+Marc Andreesen once dismissively referred to Windows as “just a bag of drivers,” but in fact, that was its genius. The Win32 API took some of the pain out of supporting devices, so that application developers didn’t have to do lots of one-off interfaces. And one of the challenges of the “Internet OS” is to figure out the “bag of drivers” we need now. What are the services that we want to integrate that developers want to use? I believe that web databases are part of what we need standard “drivers” for.
+
+That’s ultimately what Microsoft’s .NET is about—defining a standard set of Net-facing programming services. And Apple is showing that they have a lot of the same moxie. But since they don’t have the clout to own the whole thing, they are trying to inter-operate with the functionality that is out there. That’s one of the most exciting things about OS X: the integration of services from AOL (AIM and MapQuest) and Yahoo!. It’s absolutely the right thing to do.
+
+What’s particularly interesting here is also the way that a non-controlling player has to do “integration into the OS.” Microsoft has typically integrated functionality that _replaces_ or competes with the work of some existing player (Netscape, Real Networks, AOL), while Apple is having to find ways to integrate _support_ for the existing players.
+
+And of course, if the OS is an Internet OS rather than a PC OS, then the PC OSs are themselves software components of that larger OS. Apple seems to understand that.
+
+So, if we’re building an Internet OS, what kind of OS would we like it to be?
+
+
+[[architecture_matters]]
+=== Architecture Matters
+
+That’s where we can learn a lot from the design of Unix and the Internet. I’m talking about design at a very high level, the “architecture is politics” level that Larry Lessig describes so well in his book _Code and Other Laws of Cyberspace._ Both Unix and the Internet are loosely coupled protocol-centric systems rather than API-centric systems.
+
+Kernighan and Pike’s classic, _The Unix Programming Environment,_ offers a clear formulation of the few simple rules that made Unix work and laid the groundwork for what I call the architecture of participation. Use ASCII as a common data format. Write standard output and read standard input. Write small programs that work with other programs in a pipeline. This architecture made it possible for individuals all over the world to write programs without any central coordination. More than licensing, I think that architecture is behind the success of Unix, and ultimately Linux.
+
+Similarly, the Internet was based on what Jon Postel, in the RFC for TCP, called “the robustness principle”: “Be conservative in what you do, be liberal in what you accept from others.” In other words, try to be interoperable.
+
+The Internet architecture has flourished for 25+ years because of the robustness principle, and because it has a loosely coupled architecture in which the intelligence is in the endpoints, not in some central registry. Loosely connected actors, low barriers to entry ... these matter.
+
+Apple seems to be on the right track with OS X. It’s building the future into the system, in terms of the technology choices it’s making. It’s building on an open, extensible framework in the form of Darwin and FreeBSD. It’s learning lessons from the open source community.
+
+Now, as developers, you have to do the same thing. Think network. Think open. Think extensible. Play well with others.
+

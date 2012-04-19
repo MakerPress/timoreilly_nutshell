@@ -1,0 +1,36 @@
+
+[[ten_years_as_a_publisher]]
+== Ten Years as a Publisher
+
+_A short piece I wrote for one of our catalogs in late 1996, reflecting on why we got into publishing in the first place. Our business has changed significantly since then, as has the marketplace, but there’s a thread of the perspective I express below that continues to run through the work we do._
+
+O’Reilly &amp; Associates began almost eighteen years ago now, as a technical writing consulting company, but it was ten years ago this past October that we made the shift to publishing our own books: 100 copies each of _Learning the UNIX Operating System_ and _Reading and Writing Termcap Entries_ stapled and in plain brown covers, went on sale at UNIX Expo in New York.
+
+In celebrating our tenth anniversary as a publisher, I want to reflect on what brought us to publishing in the first place, what made us different from most other computer book publishers, and what I hope will continue to make us different through our next ten years, or twenty, or a hundred.
+
+We had no grand plans for bestsellers, no sense even of where the technical book market was going or what the sales possibilities were. We were technical writers; our job was documenting things that needed explaining. In the cracks, when we weren’t busy writing manuals for hire, we decided to document some of the great free software that no one else was paying attention to.
+
+The opportunity that drove us was not the opportunity to make our fortune (though certainly we hoped to keep the roof over our heads) but the opportunity to exercise our skills while filling a real need.
+
+Over the years, we’ve tried to follow that same principle in selecting topics: if a book doesn’t fill a real need, let’s not spend time on it. This attitude tends to take us away from the mainstream, into areas other publishers are ignoring. So, when everyone else was doing DOS books, we did Unix and X. When Windows applications were hot, we did the Internet.
+
+Now that the Internet is suddenly the central focus of just about every technical publisher, what are we going to do next?
+
+To be completely honest, I don’t know the answer myself. The computer industry is in transition, with old paradigms and platforms crumbling and new ones jostling for the right to take their place. There are many clear needs, but also many candidates eager to fill them; things will have to stabilize before it’s clear what users are having persistent trouble with.
+
+All of this is perhaps a roundabout explanation of why certain seemingly obvious books don’t appear in our catalog. Rather than rush out shallow, overlapping titles, we wait for the dust to settle, for the holes in the “obvious” to become apparent, and for a knowledge base to accumulate that is sufficient for us to publish books of enduring value.
+
+In the meantime, we’re continuing to work on filling in the blanks in the undocumented areas we’ve already identified.
+
+One consequence of writing books that meet real needs instead of following quick-buck fashions is that you stick with them. That’s why we’re still selling those first two books ten years later, when just about every other Unix book of their generation is long out of print. _Reading and Writing Termcap Entries_ (now _Termcap and Terminfo_) is on its last legs, to be sure, as the technology it describes has largely become obsolete along with the alphanumeric terminals it supported, but _Learning the UNIX Operating System_ has become a perennial bestseller, as have dozens of the books that followed it in the Nutshell Handbook series.
+
+We’re going to continue doing books on Unix as long as there’s life in the “old geezer.” We’ve documented most of the old core programs, but new software is being written and coming into common use all the time. Even though the Internet is no longer solely a Unix phenomenon, it has sprung from the same freewheeling creativity and supports a rich ecology of free and commercial software—much of it poorly documented.
+
+But when it really comes down to it, if you want to know where we’re going, don’t look for obvious buzzwords or books on the latest hot topic. Instead, look for unsolved problems, like how to make online publishing work as a business, or how to make web publishing (not just web browsing) a desktop tool as widely distributed as email. (Those are the problems that led us to launch GNN and WebSite, respectively.)
+
+In short, we’re out there trying to gain the experience that will allow us to write the next generation of books you’ll be looking for: books about how to create and manage complex information products running on heterogeneous, distributed platforms.
+
+I believe Joseph Campbell once said that the story of King Arthur and the Knights of the Round Table was the quintessential myth of Western civilization. The knights seek out not the high road to success but the deepest, darkest part of the forest, where there are enemies to fight and people in distress.
+
+It may seem more than a little pretentious to compare writing technical books to slaying dragons, especially when there are still so many real dragons and ogres abroad in our society. But at the same time, we each play out myths like this where we are. And the dark forest that we walked into ten years ago, largely by a series of chances, mischances, and small inspirations, was the forest of “information pain.” We don’t slay dragons. We write books. But we write books that are needed, and we take the time to do them well, so that we’ll still be selling them as long as they are needed.
+
